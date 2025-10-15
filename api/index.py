@@ -1,2 +1,1 @@
-from backend.server import app  # FastAPI
-
+from backend.server import app  # FastAPI instance
